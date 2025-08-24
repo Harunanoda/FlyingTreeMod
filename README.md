@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Flying Tree Mod
 
-## Setup
+木を殴ると空に舞い上がるModです。
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up-a-development-environment) that relates to the IDE that you are using.
+---
 
-## License
+## ダウンロード
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+最新のリリースは [**こちら**](https://github.com/Harunanoda/flying-tree-mod/releases) からダウンロードできます。
