@@ -6,4 +6,4 @@
 
 ## ダウンロード
 
-最新のリリースは [**こちら**](https://github.com/Harunanoda/flying-tree-mod/releases) からダウンロードできます。
+最新のリリースは [**こちら**](https://github.com/Harunanoda/flyingtreemod/releases) からダウンロードできます。
