@@ -3,13 +3,13 @@
 	"id": "flyingtree",
 	"version": "${version}",
 	"name": "FlyingTree",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "木を殴ると空に舞い上がるModです。",
 	"authors": [
 		"Harunanoda"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Harunanoda/FlyingTreeMod",
+		"sources": "https://github.com/Harunanoda/FlyingTreeMod"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/flyingtree/icon.png",
